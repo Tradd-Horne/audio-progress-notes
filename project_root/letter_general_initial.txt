@@ -1,0 +1,34 @@
+Example Template:
+
+{Podiatrist Name}
+Podiatrist ({Provider Number})
+{Address}
+{Address}
+{Phone number} {Fax Number}
+
+{Today’s Date}
+
+RE: {Patient Name} ({Pt DOB})
+
+To {Referring Dr},
+Thank-you for referring {Patient Name} in regards to …
+
+PATIENT PRESENTATION:
+1) Pedal pulses: Palpable.
+2) Monofilament: Detected at plantar foot surfaces.
+3) Dermatological: Requires ongoing assistance with foot and nail care.
+4) Orthopaedic: Dx: Plantar fasciits. Managed with: Home excercise program, footwear advice and orthotics. 
+
+NHMRC FOOT RISK STATUS:
+LOW RISK of foot complications
+
+{Patient Name} will require ongoing assistance with foot and nail care every 10 weeks. 
+
+Further information can be attained in progress notes available to you.
+Any questions do not hesitate to contact me directly.
+
+Review appointment: 10 weekly.
+
+Kind regards,
+
+Tradd Horne (Podiatrist)

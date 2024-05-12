@@ -1,0 +1,8 @@
+Flask
+pydub
+SpeechRecognition
+openai
+python-dotenv
+apikey
+st_audio_recorder
+```
